@@ -127,6 +127,10 @@ header h2 {
 .bloc-bottom {
   background-color: #f6f6f6;
 }
+.bloc-bottom a {
+  text-decoration: none;
+  color: black;
+}
 .bloc-bottom .h1-restaurants-container {
   padding-top: 15px;
   display: flex;
@@ -140,10 +144,6 @@ header h2 {
   font-weight: 700;
   font-size: 24px;
   width: 45%;
-}
-.bloc-bottom a {
-  text-decoration: none;
-  color: black;
 }
 .bloc-bottom article {
   display: flex;
