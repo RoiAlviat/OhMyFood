@@ -141,6 +141,10 @@ header h2 {
   font-size: 24px;
   width: 45%;
 }
+.bloc-bottom a {
+  text-decoration: none;
+  color: black;
+}
 .bloc-bottom article {
   display: flex;
   flex-direction: column;
